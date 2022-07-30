@@ -1,0 +1,22 @@
+CRUD-----------------------------------
+Graphs
+Trees
+List
+Queue
+Map
+Set
+Table
+Hash
+Stack
+Objects
+Array
+String
+
+AlGOS-----------------------------------
+2 Factor
+Recursion
+BFS
+DFS
+Searching
+Sorting
+D-kshitra
